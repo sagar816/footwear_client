@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:footwear_client/pages/home_page.dart';
 // import 'package:footwear_client/pages/login_page.dart';
-import 'package:footwear_client/pages/register_page.dart';
+// import 'package:footwear_client/pages/register_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -26,4 +26,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//3.16.12
+//3.40.47
